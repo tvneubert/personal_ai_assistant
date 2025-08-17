@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "category": "grunddaten",
+        "text": "Name: Nana, 34, weiblich. Wohnort: Olten (arbeitet/studiert in Zürich). Beruf: SaaS Startup Yoordi (Gastronomie POS/Bezahllösungen). Studium: Informatik ZHAW, Teilzeit, 7. Semester. Arbeitszeit: 32h/Woche + 20-30h Studium. Transport: Pendelt mit Zug."
+    },
+    {
+        "id": 2,
+        "category": "medizin", 
+        "text": "ADHS: Kombinierter Typ, Elvanse 30mg morgens. CPTBS: Kindheitstraumata, in Therapie. Zyklus: Minipille täglich 20:00 Uhr. Allergien: Penicillin, Fenchel. Abneigungen: Spargel, normaler Kümmel."
+    },
+    {
+        "id": 3,
+        "category": "trigger",
+        "text": "Sensorische Trigger - Geräusche: Schreien, Piepsen, Krach, hohe Töne. Licht: Helles direktes kaltes Licht. Texturen: Raues, kratziges. Gerüche: Starke Gerüche, Parfum. Coping: Noise-Canceling Kopfhörer, Podcasts."
+    },
+    {
+        "id": 4,
+        "category": "lifestyle",
+        "text": "Lieblings-Küchen: Japanisch, koreanisch, vietnamesisch, thailändisch, mediterran. Hyperfokus-Essen: Isst oft dasselbe, dann Abneigung. Haustiere: 2 Katzen (weiblich 13J, männlich 9J). Interessen: Game Dev, Geschichten schreiben, Japan/Anime/Manga."
+    },
+    {
+        "id": 5,
+        "category": "familie",
+        "text": "Mutter: Fast kein Kontakt. Vater: Schweiz, schwieriger Kontakt wegen CPTBS. Geschwister: Schweiz, Kontakt schwierig. Beziehung: Lebt mit Freund zusammen."
+    }
+]
