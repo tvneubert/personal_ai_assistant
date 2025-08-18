@@ -3,7 +3,7 @@ CLI Interface für Personal AI Assistant Profile Setup
 Usage Examples:
   python setup_profile.py nana profile.json                    # Upload profile
   python setup_profile.py nana --setup-conversations           # Setup conversations collection
-  python setup_profile.py nana --test-search "ADHS tips"       # Test search functionality      # Add test conversation
+  python setup_profile.py nana --test-search "ADHS tips"       # Test search functionality
 """
 
 import sys
